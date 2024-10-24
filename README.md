@@ -19,5 +19,13 @@ Veja os estados de foco e foco de todos os elementos interativos na página
 Bônus: conecte o formulário para enviar e armazenar a consulta do usuário (você pode usar uma planilha ou Airtable para salvar as consultas)
 Bônus: adicione seus próprios detalhes (imagem, habilidades, projetos) para substituir os do design
 
+# Solução
+
+O link leva a outro site de treinamentos e o acesso ao design da página só é desbloqueado se fizer uma assinatura US$ 6,00 por mês ou US$ 48,00 por ano.
+
+Para fazer uma simples tarefa não estou disposto a pagar por uma serviço que não desejo.
+
+Considero a tarefa inadequada e inexequível.
+
 
 
